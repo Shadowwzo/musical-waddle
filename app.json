@@ -7,10 +7,10 @@
    "FiletoLinkBot",
    "For ScreenShot Bot"
   ],
- "repository": "https://github.com/TGExplore/TG-Files-to-Link",
+ "repository": "https://github.com/Shadowwzo/musical-waddle",
  "env": {
    "TG_API_ID": {
-      "description": "Your Telegram API ID. Get this value from my.telegram.org!",
+      "description": "Your Telegram API ID. Get this value from @Shadow_10_YT!",
       "value": ""
   },
    "TG_API_HASH": {
